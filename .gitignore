@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Build outputs
+*.out
+build-*/
+
+# VSCode config (optional)
+.vscode/launch.json
+.vscode/tasks.json
+.vscode/c_cpp_properties.json
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile.DS_Store
+*.out
+build-*/
+.vscode/launch.json
+.vscode/tasks.json
+.vscode/c_cpp_properties.json
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
